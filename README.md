@@ -1,2 +1,5 @@
 this is my first repository for demo purpose.
-new upadte 
+git new file added
+Author: Anjali Pareek
+new author
+
